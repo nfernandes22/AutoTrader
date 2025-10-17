@@ -6,6 +6,7 @@ Define the Strategy
 
 What markets are you trading? (e.g., equities, crypto, forex, CFDs)
 Equities
+
 What data are you using? (price, volume, indicators, sentiment)
 
 What’s your strategy type?
